@@ -24,4 +24,4 @@
 
 从SEO角度出发，关键词“黑料不打烊”既具搜索热度，也伴随合规风险。打造优质内容的关键在于结构清晰、用词恰当、具备分析深度，远离低质复制与诱导跳转，才能获得搜索引擎与用户的双重认可。
 
-[Canonical link](https://github.com/BHD0710/BHD0710-01）
+[Canonical link](https://github.com/BHD0710/BHD0710-01)
